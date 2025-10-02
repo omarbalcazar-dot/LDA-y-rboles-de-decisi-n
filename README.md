@@ -72,5 +72,9 @@ INSTRUCCIONES:
 
 En la actividad se utilizan 3 documentos:
 
+[Reporte ipynb](Act2.2_652911.ipynb)
 
+[Reporte html](Act2.2_652911.html)
+
+[Reporte pib_turismo](pib_turismo.csv)
   
