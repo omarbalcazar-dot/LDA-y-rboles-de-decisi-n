@@ -63,11 +63,12 @@ INSTRUCCIONES:
 
   En el conjunto de prueba se imprimen para cada modelo:
 
-Accuracy, Precision, Recall, F1
+    - Accuracy, Precision, Recall, F1
 
-Matriz de confusión
+    - Matriz de confusión
 
-classification_report
+    - classification_report
+      
 
 En la actividad se utilizan 3 documentos:
 
